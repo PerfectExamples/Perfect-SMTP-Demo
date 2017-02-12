@@ -91,6 +91,9 @@ done!
 
 ```
 
+## Gmail 有关说明
+
+我们收到了很多关于google smtp示范的要求，在此感谢 @ucotta 、@james，当然还有来自Perfect 官方专业支持的 @iamjono，以下说明可能会为您的gmail客户端开发有所帮助： ⚠️*SMTPClient 的地址应该设置为 `smtps://smtp.gmail.com:465`，并且在谷歌设置中一定要开启“降低安全性以便于某些传统客户端访问”*⚠️
 
 ## 问题报告、内容贡献和客户支持
 
